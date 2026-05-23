@@ -1,0 +1,6 @@
+host_B16952.sorted.bam
+host_B16954.sorted.bam
+host_B16956.sorted.bam
+host_B16958.sorted.bam
+host_B16960.sorted.bam
+host_B16962.sorted.bam

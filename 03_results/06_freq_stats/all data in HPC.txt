@@ -1,0 +1,3 @@
+Due to the limitation of file size, those generated in Phase 3 are not included in this version.
+Save in the absolute path of XJTLU HPC cluster:
+/gpfs/work/bio/yifeixu21/Carpenter_Bee_Analysis/03_results/06_freq_stats

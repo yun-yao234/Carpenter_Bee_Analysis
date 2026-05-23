@@ -1,0 +1,6 @@
+host_231001G085.sorted.bam
+host_231001G086.sorted.bam
+host_231001G087.sorted.bam
+host_231004G073.sorted.bam
+host_231004G074.sorted.bam
+host_231004G075.sorted.bam

@@ -1,0 +1,5 @@
+host_TMBeeG0040.sorted.bam
+host_TMBeeG0042.sorted.bam
+host_TMBeeG0043.sorted.bam
+host_TMBeeG0044.sorted.bam
+host_TMBeeG0045.sorted.bam
